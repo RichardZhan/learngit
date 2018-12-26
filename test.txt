@@ -4,3 +4,5 @@ diff change
 append GPL
 123
 123
+456
+789

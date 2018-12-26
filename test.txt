@@ -8,3 +8,4 @@ append GPL
 789
 test change
 testchange2
+change user.email
